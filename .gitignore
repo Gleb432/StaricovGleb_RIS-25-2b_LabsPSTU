@@ -1,4 +1,4 @@
-# Prerequisites
+*.png
 *.d
 
 # Compiled Object files
@@ -39,3 +39,4 @@
 
 # debug information files
 *.dwo
+*.png
