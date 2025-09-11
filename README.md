@@ -1,21 +1,66 @@
-# protsto text
+# zagolovok_1
 
-## protsto text
+## zagolovok_2
 
-### protsto text
+### zagolovok_3
 
-#### protsto text
+#### zagolovok_4
 
-##### protsto text
+##### zagolovok_5
 
-###### protsto text
+###### zagolovok_6
 
-*protsto text*
+*kursiv*
 
-**protsto text**
+**jirniy text**
 
-***protsto text***
+***jirniy kursiv***
 
-prosto*protsto text*text
+prosto*kursiv*text
 
-~~protsto text~~
+~~zacherknutiy text~~
+
+>citata_2
+
+>>citata_2
+
+1. odin
+2. dva
+3. tri
+
+* punct tochka
+* punct tochka
+
+- [x] galochka
+
+- [ ] pustaya otmetka
+
+1. odin
+   1. odin_odin
+
+<http://pstu.ru>
+
+[ssilka v texte_1](http://pstu.ru "podskazka")
+
+[ssilka v texte_2][URL.pstu]
+
+[URL.pstu]: http://pstu.ru "ostavit mesto posle pred. strochki"
+
+![img1 esli ukazivat put'](https://i.pinimg.com/736x/6b/ef/84/6bef84a24e005639a5d540f452610a13.jpg "small cat")
+
+'''C
+#include <stdio.h>
+int main() {
+   printf("hello world");
+   return 0;
+}
+'''
+
+|MR|Walter|White|
+|:-|:-:|-:|
+|yes|no|what|
+
+\#what
+
+\"prosto text"
+
