@@ -9,8 +9,8 @@ Semestr 1th
 Semestr 2th
 | № | Title | Status | Ssilka |
 |---|--------|--------|--------|
-| 1 | №4 | in progress | |
-| 2 | | | |
+| 1 | sortirovki | in progress | https://docs.google.com/document/d/1MN0OeKNyPli3pXZ8zl25XDmrcFJXUo_q/edit?usp=drive_link&ouid=104486493423312803151&rtpof=true&sd=true |
+| 2 | lab №7 | in progress | https://docs.google.com/document/d/1bcZKDasVY8_ygyy1Lx6v-pZ2M85uautq/edit?usp=drive_link&ouid=104486493423312803151&rtpof=true&sd=true|
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
